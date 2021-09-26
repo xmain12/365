@@ -34,9 +34,9 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[#.!]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     BRANCH: 'master',
-    DEVELOPER: 'TOXIC-DEVIL',
-    AUTHOR: 'TOXIC-DEVIL',
-    GIT: 'https://github.com/TOXIC-DEVIL/WhatsAlexa.git',
+    DEVELOPER: 'xmain12',
+    AUTHOR: 'xmain12',
+    GIT: 'https://github.com/xmain12/365.git',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
         API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
