@@ -4,7 +4,7 @@
 [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
 
 <div align="center">
-  <img src="https://telegra.ph/file/597e294672f3a49a864e5.jpg" width="300" height="100">
+  <img src="https://telegra.ph/file/597e294672f3a49a864e5.jpg" width="400" height="400">
   <h1>Stefanie (VIP)</h1>
   
 
