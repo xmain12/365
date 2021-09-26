@@ -1,3 +1,13 @@
+#### © Select your language
+
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
+[![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
+
+<div align="center">
+  <img src="https://telegra.ph/file/597e294672f3a49a864e5.jpg" width="300" height="100">
+  <h1>Stefanie (VIP)</h1>
+  
+
 
 ### Simple method 
 
